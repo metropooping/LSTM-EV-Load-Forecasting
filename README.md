@@ -7,7 +7,7 @@ This repository contains two LSTM-based models for forecasting electric vehicle 
 
 ## Folder Structure
 - `Baseline/` – Basic LSTM model with load data only.
-- `With_Features/` – Enhanced LSTM model using engineered features.
+- `LSTM_WEEKLY/` – Enhanced LSTM model using engineered features.
 - `README.md` – Project overview.
 
 ## Requirements
