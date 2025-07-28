@@ -8,7 +8,7 @@ This repository contains LSTM-based models for forecasting electric vehicle (EV)
 |---------------------|-------------|
 | `Baseline.ipynb`    | Baseline LSTM model using only historical EV load data. |
 | `LSTM_WEEKLY.ipynb` | Enhanced LSTM model with additional features (weather, traffic, etc.). |
-| `Kaggle_Dataset/`   | Folder containing preprocessed dataset and related CSV files. |
+| `Kaggle_Dataset`   | Folder containing preprocessed dataset and related CSV files. |
 | `README.md`         | Project overview and instructions. |
 
 ## Model Description
